@@ -1,4 +1,7 @@
 # BhayanakBot
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/theHimanshuShekhar/BhayanakBot.svg)](https://greenkeeper.io/)
+
 All purpose bot for Discord servers.
 
 ![alt](https://i.imgur.com/CIAJAgg.jpg)
